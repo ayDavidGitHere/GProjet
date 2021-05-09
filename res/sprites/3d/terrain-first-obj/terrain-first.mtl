@@ -1,0 +1,162 @@
+# Blender MTL File: 'None'
+# Material Count: 16
+
+newmtl C__Users_ari_Desktop_3d_Records_first_terrain_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd first terrain-tex0.png
+
+newmtl C__Users_ari_Desktop_3d_Records_first_terrain_1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd first terrain-tex1.png
+
+newmtl C__Users_ari_Desktop_3d_Records_first_terrain_10
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd first terrain-tex10.png
+
+newmtl C__Users_ari_Desktop_3d_Records_first_terrain_11
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd first terrain-tex11.png
+
+newmtl C__Users_ari_Desktop_3d_Records_first_terrain_12
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd first terrain-tex12.png
+
+newmtl C__Users_ari_Desktop_3d_Records_first_terrain_13
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd first terrain-tex13.png
+
+newmtl C__Users_ari_Desktop_3d_Records_first_terrain_14
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd first terrain-tex14.png
+
+newmtl C__Users_ari_Desktop_3d_Records_first_terrain_15
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd first terrain-tex15.png
+
+newmtl C__Users_ari_Desktop_3d_Records_first_terrain_2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd first terrain-tex2.png
+
+newmtl C__Users_ari_Desktop_3d_Records_first_terrain_3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd first terrain-tex3.png
+
+newmtl C__Users_ari_Desktop_3d_Records_first_terrain_4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd first terrain-tex4.png
+
+newmtl C__Users_ari_Desktop_3d_Records_first_terrain_5
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd first terrain-tex5.png
+
+newmtl C__Users_ari_Desktop_3d_Records_first_terrain_6
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd first terrain-tex6.png
+
+newmtl C__Users_ari_Desktop_3d_Records_first_terrain_7
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd first terrain-tex7.png
+
+newmtl C__Users_ari_Desktop_3d_Records_first_terrain_8
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd first terrain-tex8.png
+
+newmtl C__Users_ari_Desktop_3d_Records_first_terrain_9
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd first terrain-tex9.png
